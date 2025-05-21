@@ -6,6 +6,63 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/rotsen/algemeen/rotsen-algemeen.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main menu 1.unity
+    guid: f07813652f83f9a46b813a87c8eb937d
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 6e88190b7f52ce749bab7128d0f512db
+  - enabled: 1
+    path: Assets/Scenes/Planeten.unity
+    guid: 09b98595ac6b26c43a2c29e61f999137
+  - enabled: 1
+    path: Assets/Scenes/Planeten 1.unity
+    guid: 37a02c0b450e8ca498d0fdc4eec552ed
+  - enabled: 1
+    path: Assets/Scenes/Rotsen in de ruimte.unity
+    guid: 3621871e6dd89004a8481859070be5bb
+  - enabled: 1
+    path: "Assets/Scenes/rotsen/asteroi\u0308den/rotsen-astero\xEFden-scene1.unity"
+    guid: d766aa851ddf9480cbbc029e8202fcde
+  - enabled: 1
+    path: "Assets/Scenes/rotsen/asteroi\u0308den/rotsen-asteroi\u0308den-scene2.unity"
+    guid: 56ba813f6e74c46e080cfb3fcbb57924
+  - enabled: 1
+    path: Assets/Scenes/rotsen/kometen/rotsen-kometen-scene1.unity
+    guid: 1bc91a4f71e104144811bfcc25999cc1
+  - enabled: 1
+    path: Assets/Scenes/rotsen/kometen/rotsen-kometen-scene2.unity
+    guid: 51415c8a8f5fe4e7b93eba1dd0be6f2a
+  - enabled: 1
+    path: Assets/Scenes/rotsen/kometen/rotsen-kometen-scene3.unity
+    guid: f6d743dc373b74433b7a067fc768095d
+  - enabled: 1
+    path: Assets/Scenes/rotsen/meteorieten/rotsen-meteorieten-scene1.unity
+    guid: 4dba95db3214f437997b36b74c458249
+  - enabled: 1
+    path: Assets/Scenes/rotsen/meteorieten/rotsen-meteorieten-scene2.unity
+    guid: ebaecb8a096ab4666bcff9cba980bb1e
+  - enabled: 1
+    path: Assets/Scenes/rotsen/meteorieten/rotsen-meteorieten-scene3.unity
+    guid: 924f98e64c6a44f72b42ddf7532a21ec
+  - enabled: 1
+    path: Assets/Scenes/rotsen/meteorieten/rotsen-meteorieten-scene4.unity
+    guid: 6a2ef7fca7c25494bbdc72f78a8c613c
+  - enabled: 1
+    path: Assets/Scenes/rotsen/meteorieten/rotsen-meteorieten-scene5.unity
+    guid: c8a4d02394f9e4f55ad1f8bbb5256bdd
+  - enabled: 1
+    path: Assets/Scenes/rotsen/vallendeSter/rotsen-vallende-ster-scene1.unity
+    guid: 1c67ed19722474d01bfbaad603248cb9
+  - enabled: 1
+    path: Assets/Scenes/rotsen/vallendeSter/rotsen-vallende-ster-scene2.unity
+    guid: 904d950d6b8154da3a4bce3c75c6c4f0
+  - enabled: 1
+    path: Assets/Scenes/rotsen/vallendeSter/rotsen-vallende-ster-scene3.unity
+    guid: 4e359be76ad184b23860eff79e071b8d
+  - enabled: 1
+    path: Assets/Scenes/rotsen/vallendeSter/rotsen-vallende-ster-scene4.unity
+    guid: d8a189df0bfaa45f99414804eafc108e
   m_configObjects: {}
