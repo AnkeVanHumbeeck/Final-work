@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Main menu 1.unity
     guid: f07813652f83f9a46b813a87c8eb937d
   - enabled: 1
+    path: Assets/Scenes/Keuzemenu-algemeen.unity
+    guid: 4161f52c0145dec4d98306f15c7f0aaa
+  - enabled: 1
     path: Assets/Scenes/Settings.unity
     guid: 6e88190b7f52ce749bab7128d0f512db
   - enabled: 1
@@ -20,6 +23,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Planeten 1.unity
     guid: 37a02c0b450e8ca498d0fdc4eec552ed
+  - enabled: 1
+    path: Assets/Scenes/Sterren.unity
+    guid: 4b7ad0c5abdeee7498cfb367d84c71f8
+  - enabled: 1
+    path: Assets/Scenes/Zon.unity
+    guid: 608d85cfacb10384ab64acc5b71d79e0
   - enabled: 1
     path: Assets/Scenes/Rotsen in de ruimte.unity
     guid: 3621871e6dd89004a8481859070be5bb
@@ -65,4 +74,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/rotsen/vallendeSter/rotsen-vallende-ster-scene4.unity
     guid: d8a189df0bfaa45f99414804eafc108e
+  - enabled: 1
+    path: Assets/Scenes/zon/wat/zon-wat-scene1.unity
+    guid: 3103286d0e0b84166ac27631809930b5
+  - enabled: 1
+    path: Assets/Scenes/zon/wat/zon-wat-scene2.unity
+    guid: 36be88af5d1be440baa1220c38d28b66
+  - enabled: 1
+    path: Assets/Scenes/zon/wat/zon-wat-scene3.unity
+    guid: f14735be15c5f4799941b5bf6083d10b
+  - enabled: 1
+    path: Assets/Scenes/zon/wat/zon-wat-scene4.unity
+    guid: f8be075bdf89946db91664ffd59d0f90
+  - enabled: 1
+    path: Assets/Scenes/zon/wat/zon-wat-scene5.unity
+    guid: c0cc3a40a2cf34b69bb87e08247fa81a
+  - enabled: 1
+    path: Assets/Scenes/zon/zonsverduistering/zon-zonsverduistering-scene1.unity
+    guid: 5db7cb6bc8369421a87e393348c40097
+  - enabled: 1
+    path: Assets/Scenes/zon/zonsverduistering/zon-zonsverduistering-scene2.unity
+    guid: b10cf4c7c6ab443f9910ccff68572ef9
   m_configObjects: {}
