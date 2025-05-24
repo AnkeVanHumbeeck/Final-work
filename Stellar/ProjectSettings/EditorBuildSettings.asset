@@ -95,4 +95,79 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/zon/zonsverduistering/zon-zonsverduistering-scene2.unity
     guid: b10cf4c7c6ab443f9910ccff68572ef9
+  - enabled: 1
+    path: Assets/Scenes/sterren/andromedastelsel/sterren-andromedastelsel-scene1.unity
+    guid: 224130075eee1447a96243aa902616f6
+  - enabled: 1
+    path: Assets/Scenes/sterren/andromedastelsel/sterren-andromedastelsel-scene2.unity
+    guid: 43ccda9478e5448c9859de51c13e2f54
+  - enabled: 1
+    path: Assets/Scenes/sterren/andromedastelsel/sterren-andromedastelsel-scene3.unity
+    guid: 9b737714693944775a58da9e70ea84d7
+  - enabled: 1
+    path: Assets/Scenes/sterren/andromedastelsel/sterren-andromedastelsel-scene4.unity
+    guid: 885930dddf64c48fdb2c9500c8099262
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene1.unity
+    guid: 413883c4d022b4a7887b8a5d06a914f0
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene2.unity
+    guid: 9ffc904ddd5824255b04fb7f31efa3b2
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene3.unity
+    guid: 786adb0f193e94248b1b45346791602f
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene4.unity
+    guid: 21f56b3ade502456282fbd10c20b8283
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene5.unity
+    guid: 49b22d86820ff42719e9a0c61585aedf
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene6.unity
+    guid: ee822d335b95245cdb7bec15cc3cd00e
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene7.unity
+    guid: feb6cca131d32439bb42985394f28a78
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene8.unity
+    guid: 9a977a679be8f4289a64dff385ad00f7
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene9.unity
+    guid: d6d485a1bb6c3404dbd5b93bdbfb1e5c
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene10.unity
+    guid: 51c9fc6b0896d4e349edf83a2c3701c3
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene11.unity
+    guid: e2833ee0b8b8940fc91e88d5a12106cd
+  - enabled: 1
+    path: Assets/Scenes/sterren/leven-van-een-ster/sterren-leven-scene12.unity
+    guid: 857a5749656694f409837ea493aafbcf
+  - enabled: 1
+    path: Assets/Scenes/sterren/proxima/sterren-proxima-scene1.unity
+    guid: 2663ae5db10634ed6b8c6e89c42a23df
+  - enabled: 1
+    path: Assets/Scenes/sterren/proxima/sterren-proxima-scene2.unity
+    guid: 6a817d78a221f4c69b4d08793f54db40
+  - enabled: 1
+    path: Assets/Scenes/sterren/proxima/sterren-proxima-scene3.unity
+    guid: 948af08adaf8c4a10a2b3d3cea76c82a
+  - enabled: 1
+    path: Assets/Scenes/sterren/sterrenbeelden/sterren-sterrenbeelden-scene1.unity
+    guid: 54fcd2e3bec38461daa750144acc4744
+  - enabled: 1
+    path: Assets/Scenes/sterren/sterrenbeelden/sterren-sterrenbeelden-scene2.unity
+    guid: 8554e2e8459614ddc9429c35c2cabc4d
+  - enabled: 1
+    path: Assets/Scenes/sterren/sterrenbeelden/sterren-sterrenbeelden-scene3.unity
+    guid: 243c8187226104059805e6d7063ed293
+  - enabled: 1
+    path: Assets/Scenes/sterren/sterrenbeelden/sterren-sterrenbeelden-scene4.unity
+    guid: ab7fe86caf7da480ca85efa74027e825
+  - enabled: 1
+    path: Assets/Scenes/sterren/sterrenbeelden/sterren-sterrenbeelden-scene5.unity
+    guid: cf7b59cd6e7284be78c0bdecb6627800
+  - enabled: 1
+    path: Assets/Scenes/sterren/sterrenbeelden/sterren-sterrenbeelden-scene6.unity
+    guid: 04cc0e5c9d8e44bc8be41b11ee681f36
   m_configObjects: {}
