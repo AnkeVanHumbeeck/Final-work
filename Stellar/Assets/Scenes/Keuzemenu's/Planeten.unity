@@ -4611,7 +4611,7 @@ GameObject:
   - component: {fileID: 1592165395}
   - component: {fileID: 1592165394}
   m_Layer: 5
-  m_Name: Soorten planeten
+  m_Name: planeten-soorten-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
