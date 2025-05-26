@@ -9,14 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/rotsen/algemeen/rotsen-algemeen.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Keuzemenu's/Main menu 1.unity
-    guid: f07813652f83f9a46b813a87c8eb937d
-  - enabled: 1
     path: Assets/Scenes/Keuzemenu's/Keuzemenu-algemeen.unity
     guid: 4161f52c0145dec4d98306f15c7f0aaa
-  - enabled: 1
-    path: Assets/Scenes/Settings.unity
-    guid: 6e88190b7f52ce749bab7128d0f512db
   - enabled: 1
     path: Assets/Scenes/Keuzemenu's/Planeten.unity
     guid: 09b98595ac6b26c43a2c29e61f999137
@@ -96,6 +90,60 @@ EditorBuildSettings:
     path: Assets/Scenes/zon/zonsverduistering/zon-zonsverduistering-scene2.unity
     guid: b10cf4c7c6ab443f9910ccff68572ef9
   - enabled: 1
+    path: Assets/Scenes/maan/maanfases/maan-maanfases-scene1.unity
+    guid: d02005ff81d904d54ad7fa377e90417b
+  - enabled: 1
+    path: Assets/Scenes/maan/maanfases/maan-maanfases-scene2.unity
+    guid: 6c940c10443cf4df28bbf77e9b6a7af6
+  - enabled: 1
+    path: Assets/Scenes/maan/maanfases/maan-maanfases-scene3.unity
+    guid: df9a8434c11984346b99d366dfa26578
+  - enabled: 1
+    path: Assets/Scenes/maan/maanfases/maan-maanfases-scene4.unity
+    guid: 166bcb8d1f4864ddb9e4274401350f56
+  - enabled: 1
+    path: Assets/Scenes/maan/maanfases/maan-maanfases-scene5.unity
+    guid: 826b0ddec23bc41248cb915c21211ed7
+  - enabled: 1
+    path: Assets/Scenes/maan/maanfases/maan-maanfases-scene6.unity
+    guid: fcd5b535a0c9543fa81bd65c72e51c9c
+  - enabled: 1
+    path: Assets/Scenes/maan/maansverduistering/maan-maansverduistering-scene1.unity
+    guid: 5ff17101203e94f56bd95ffb683b9d7e
+  - enabled: 1
+    path: Assets/Scenes/maan/maansverduistering/maan-maansverduistering-scene2.unity
+    guid: 71739a5c53e1d4f2cbacc0862c04e8f7
+  - enabled: 1
+    path: Assets/Scenes/maan/ontstaan/maan-ontstaan-scene1.unity
+    guid: 5d502f81ef3c94028bf0c8df94b1ca1f
+  - enabled: 1
+    path: Assets/Scenes/maan/ontstaan/maan-ontstaan-scene2.unity
+    guid: 3475156ddd2204a218bdaccb1c958190
+  - enabled: 1
+    path: Assets/Scenes/maan/wat/maan-wat-scene1.unity
+    guid: f58d8db1d42204758bb7cee55cd9400e
+  - enabled: 1
+    path: Assets/Scenes/maan/wat/maan-wat-scene2.unity
+    guid: 92c32f655906946eb8ea14f13f381d11
+  - enabled: 1
+    path: Assets/Scenes/maan/wat/maan-wat-scene3.unity
+    guid: b0c807d16a80f4840b1fa083792db4ff
+  - enabled: 1
+    path: Assets/Scenes/maan/wat/maan-wat-scene4.unity
+    guid: 500792d5e950a475bada6ae7e1bdb9d6
+  - enabled: 1
+    path: Assets/Scenes/maan/wat/maan-wat-scene5.unity
+    guid: 35c1bb7960ff4472baebd395f5b4cc15
+  - enabled: 1
+    path: Assets/Scenes/maan/wat/maan-wat-scene6.unity
+    guid: 53e309c82cb2d414ea4a32d416d546df
+  - enabled: 1
+    path: Assets/Scenes/maan/wat/maan-wat-scene7.unity
+    guid: 0f94eb98206c3495b8a5ea95a5848b2e
+  - enabled: 1
+    path: Assets/Scenes/maan/wat/maan-wat-scene8.unity
+    guid: 1fded9cabf0094234928bb0e24a45632
+  - enabled: 1
     path: Assets/Scenes/sterren/andromedastelsel/sterren-andromedastelsel-scene1.unity
     guid: 224130075eee1447a96243aa902616f6
   - enabled: 1
@@ -170,4 +218,139 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/sterren/sterrenbeelden/sterren-sterrenbeelden-scene6.unity
     guid: 04cc0e5c9d8e44bc8be41b11ee681f36
+  - enabled: 1
+    path: Assets/Scenes/planeten/mercurius/planeten-mercurius-scene1.unity
+    guid: cd41c05cbca294eb5912dd5f66eaa5df
+  - enabled: 1
+    path: Assets/Scenes/planeten/mercurius/planeten-mercurius-scene2.unity
+    guid: f0783384bdc584ed89e69ce69c10f0f0
+  - enabled: 1
+    path: Assets/Scenes/planeten/mercurius/planeten-mercurius-scene3.unity
+    guid: 42c0f82b846f94b26a445f86378f254e
+  - enabled: 1
+    path: Assets/Scenes/planeten/mercurius/planeten-mercurius-scene4.unity
+    guid: 557e1149b567e407889002ee927ff7a5
+  - enabled: 1
+    path: Assets/Scenes/planeten/mercurius/planeten-mercurius-scene5.unity
+    guid: c4115be15bb9e4ebd8f43818d3235d76
+  - enabled: 1
+    path: Assets/Scenes/planeten/venus/planeten-venus-scene1.unity
+    guid: 6542a535cf4e54e4886b42f8709cb7ec
+  - enabled: 1
+    path: Assets/Scenes/planeten/venus/planeten-venus-scene2.unity
+    guid: 0e112f24275ab4b50b03789eeb50e33a
+  - enabled: 1
+    path: Assets/Scenes/planeten/venus/planeten-venus-scene3.unity
+    guid: 9f2a6cea797034ca4887b7044765a38e
+  - enabled: 1
+    path: Assets/Scenes/planeten/venus/planeten-venus-scene4.unity
+    guid: 101e572d613a24ebc8a68d24086338c1
+  - enabled: 1
+    path: Assets/Scenes/planeten/aarde/planeten-aarde-scene1.unity
+    guid: 037f67cbf269546cdb2977c25bd8c948
+  - enabled: 1
+    path: Assets/Scenes/planeten/aarde/planeten-aarde-scene2.unity
+    guid: 88384bfac0aa34f6eb198bf4ea0967b7
+  - enabled: 1
+    path: Assets/Scenes/planeten/aarde/planeten-aarde-scene3.unity
+    guid: 33ddbf1f26e44481dbdfcc62a2b155cd
+  - enabled: 1
+    path: Assets/Scenes/planeten/aarde/planeten-aarde-scene4.unity
+    guid: 95e8bfcca04de4fc1a19ea7a4325719a
+  - enabled: 1
+    path: Assets/Scenes/planeten/aarde/planeten-aarde-scene5.unity
+    guid: 05aeb167d46704c99a177c25a64ef8aa
+  - enabled: 1
+    path: Assets/Scenes/planeten/aarde/planeten-aarde-scene6.unity
+    guid: 4e3ba81613eab40049dc668b30d2d276
+  - enabled: 1
+    path: Assets/Scenes/planeten/aarde/planeten-aarde-scene7.unity
+    guid: b5b15ae5cc4734824bba863faad10773
+  - enabled: 1
+    path: Assets/Scenes/planeten/mars/planeten-mars-scene1.unity
+    guid: 8bf5b5c901f7d4d56924418df517cfae
+  - enabled: 1
+    path: Assets/Scenes/planeten/mars/planeten-mars-scene2.unity
+    guid: bf2af8e2ba9484d46b97c716d796925f
+  - enabled: 1
+    path: Assets/Scenes/planeten/mars/planeten-mars-scene3.unity
+    guid: 6a5f6afae780c4531ba09eccf1bdede2
+  - enabled: 1
+    path: Assets/Scenes/planeten/mars/planeten-mars-scene4.unity
+    guid: 8f2abf52091824ffb8b72a6e8e5224d7
+  - enabled: 1
+    path: Assets/Scenes/planeten/mars/planeten-mars-scene5.unity
+    guid: 538a56ac078064b739a6ef852d525f83
+  - enabled: 1
+    path: Assets/Scenes/planeten/mars/planeten-mars-scene6.unity
+    guid: 24227c4e295e7463b94d2ce00425034b
+  - enabled: 1
+    path: Assets/Scenes/planeten/mars/planeten-mars-scene7.unity
+    guid: 6f914fab81a2941358dc17a5ab6cea1a
+  - enabled: 1
+    path: Assets/Scenes/planeten/jupiter/planeten-jupiter-scene1.unity
+    guid: 88d484c8fb84f49c0b228e2bec7de1bd
+  - enabled: 1
+    path: Assets/Scenes/planeten/jupiter/planeten-jupiter-scene2.unity
+    guid: 1a9fea0564bff44279fc2c664a453feb
+  - enabled: 1
+    path: Assets/Scenes/planeten/jupiter/planeten-jupiter-scene3.unity
+    guid: 8cd3a5b6f046d4ff79925f9e8f4bf444
+  - enabled: 1
+    path: Assets/Scenes/planeten/jupiter/planeten-jupiter-scene4.unity
+    guid: 4f50d3b6867b44cde8e91d7aa961e869
+  - enabled: 1
+    path: Assets/Scenes/planeten/jupiter/planeten-jupiter-scene5.unity
+    guid: 516f6a2bd74dd4153af4313792689b0e
+  - enabled: 1
+    path: Assets/Scenes/planeten/saturnus/planeten-saturnus-scene1.unity
+    guid: f00ddfb2f02e84bd7b9ef132b6d99ed9
+  - enabled: 1
+    path: Assets/Scenes/planeten/saturnus/planeten-saturnus-scene2.unity
+    guid: 54e579ac2f44947af9c808b2a58df462
+  - enabled: 1
+    path: Assets/Scenes/planeten/saturnus/planeten-saturnus-scene3.unity
+    guid: dcd28c5eaf2ca4cbab2f7ba3b048e93d
+  - enabled: 1
+    path: Assets/Scenes/planeten/saturnus/planeten-saturnus-scene4.unity
+    guid: d92c45449a1e64d35ba7127dfcefd4b5
+  - enabled: 1
+    path: Assets/Scenes/planeten/saturnus/planeten-saturnus-scene5.unity
+    guid: e76e7ca7b8adc4303b66d2d81bfc55f5
+  - enabled: 1
+    path: Assets/Scenes/planeten/uranus/planeten-uranus-scene1.unity
+    guid: dfce8fdd02829497f9ddfa3399ff0d1e
+  - enabled: 1
+    path: Assets/Scenes/planeten/uranus/planeten-uranus-scene2.unity
+    guid: b5fb534adda3244098f903700c57d18c
+  - enabled: 1
+    path: Assets/Scenes/planeten/uranus/planeten-uranus-scene3.unity
+    guid: ad7e4b46fedc0432b9e722cf4e87e2bc
+  - enabled: 1
+    path: Assets/Scenes/planeten/uranus/planeten-uranus-scene4.unity
+    guid: e5b669489008a44faa39fc514dd08c82
+  - enabled: 1
+    path: Assets/Scenes/planeten/neptunus/planeten-neptunus-scene1.unity
+    guid: 7e65be767862349a985e4311e85eca62
+  - enabled: 1
+    path: Assets/Scenes/planeten/neptunus/planeten-neptunus-scene2.unity
+    guid: c3494f444ec704c95b1c498f84fb50f6
+  - enabled: 1
+    path: Assets/Scenes/planeten/neptunus/planeten-neptunus-scene3.unity
+    guid: 2f44cd4036bf24d55941888c8371a396
+  - enabled: 1
+    path: Assets/Scenes/planeten/neptunus/planeten-neptunus-scene4.unity
+    guid: 918faa2a3bf76438e8bc307ef4627d71
+  - enabled: 1
+    path: Assets/Scenes/planeten/pluto/planeten-pluto-scene1.unity
+    guid: b0038b808765f440e931cac49eaa16d2
+  - enabled: 1
+    path: Assets/Scenes/planeten/pluto/planeten-pluto-scene2.unity
+    guid: 074cfb8f54b5d4989b27825909df55f4
+  - enabled: 1
+    path: Assets/Scenes/planeten/pluto/planeten-pluto-scene3.unity
+    guid: 8da8c611c56424ab0b64ca75cce7c3b4
+  - enabled: 1
+    path: Assets/Scenes/planeten/pluto/planeten-pluto-scene4.unity
+    guid: 4b2470b93d8444c78a213d2592832501
   m_configObjects: {}
