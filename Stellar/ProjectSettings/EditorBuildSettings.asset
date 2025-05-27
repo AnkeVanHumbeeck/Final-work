@@ -353,4 +353,49 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/planeten/pluto/planeten-pluto-scene4.unity
     guid: 4b2470b93d8444c78a213d2592832501
+  - enabled: 1
+    path: Assets/Scenes/Minigames/Planeten-minigame-even groot.unity
+    guid: 806d7debc262e6b4f9b14d54e0868ddf
+  - enabled: 1
+    path: Assets/Scenes/Minigames/Sterren-minigame.unity
+    guid: 43220b3b4e5138b4786e43951de82d94
+  - enabled: 1
+    path: Assets/Scenes/Minigames/Sterren-vragen.unity
+    guid: 0967a0330b367c24591637f8fa2813aa
+  - enabled: 1
+    path: "Assets/Scenes/quizzes/rotsen/asteroi\u0308den/rotsen-astero\xEFden-quiz1.unity"
+    guid: a1afad233aaa446f18b9906c72224a4b
+  - enabled: 1
+    path: "Assets/Scenes/quizzes/rotsen/asteroi\u0308den/rotsen-asteroi\u0308den-quiz2.unity"
+    guid: 39a7d0e5f8d3d4c7ebbf82b6d5442c91
+  - enabled: 1
+    path: "Assets/Scenes/quizzes/rotsen/asteroi\u0308den/rotsen-asteroi\u0308den-quiz3.unity"
+    guid: 1b36717e4c83240778eebe1d1dc1b8af
+  - enabled: 1
+    path: Assets/Scenes/quizzes/rotsen/kometen/rotsen-kometen-quiz1.unity
+    guid: 6452458c6a3c540ca8cce4c456de8cef
+  - enabled: 1
+    path: Assets/Scenes/quizzes/rotsen/kometen/rotsen-kometen-quiz2.unity
+    guid: f93b258a9bff9498e998b4c7dd2b8684
+  - enabled: 1
+    path: Assets/Scenes/quizzes/rotsen/kometen/rotsen-kometen-quiz3.unity
+    guid: 17524cdc6cccd4ae7bd2e9ba2e60c0b7
+  - enabled: 1
+    path: Assets/Scenes/quizzes/rotsen/meteorieten/rotsen-meteorieten-quiz1.unity
+    guid: 39b016f83033e42248bb90692a33807c
+  - enabled: 1
+    path: Assets/Scenes/quizzes/rotsen/meteorieten/rotsen-meteorieten-quiz2.unity
+    guid: 3ff3a9f8b2683457aab83a32bc589276
+  - enabled: 1
+    path: Assets/Scenes/quizzes/rotsen/meteorieten/rotsen-meteorieten-quiz3.unity
+    guid: c6bc0de13cc8e4a24b657e7786382f19
+  - enabled: 1
+    path: Assets/Scenes/quizzes/rotsen/vallende-ster/rotsen-vallende-ster-quiz1.unity
+    guid: 4b476571ae27f4a16a4b86fab09de3be
+  - enabled: 1
+    path: Assets/Scenes/quizzes/rotsen/vallende-ster/rotsen-vallende-ster-quiz2.unity
+    guid: 1982eff5f7bc3437680ce995c5315b4c
+  - enabled: 1
+    path: Assets/Scenes/quizzes/rotsen/vallende-ster/rotsen-vallende-ster-quiz3.unity
+    guid: f1f2ee9f32dc540fd8af2209becb2d35
   m_configObjects: {}
