@@ -363,6 +363,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Minigames/Sterren-vragen.unity
     guid: 0967a0330b367c24591637f8fa2813aa
   - enabled: 1
+    path: Assets/Scenes/Minigames/Maan-minigame.unity
+    guid: a81bbd6eef90ec540b5cda311c55c1c4
+  - enabled: 1
     path: "Assets/Scenes/quizzes/rotsen/asteroi\u0308den/rotsen-astero\xEFden-quiz1.unity"
     guid: a1afad233aaa446f18b9906c72224a4b
   - enabled: 1
@@ -398,4 +401,58 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/quizzes/rotsen/vallende-ster/rotsen-vallende-ster-quiz3.unity
     guid: f1f2ee9f32dc540fd8af2209becb2d35
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/maanfases/maan-maanfases-quiz1.unity
+    guid: 7b0004be3cf0b4fab871eecd91a47672
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/maanfases/maan-maanfases-quiz2.unity
+    guid: 8bad93fa79e89458e9d4587856a2c02c
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/maanfases/maan-maanfases-quiz3.unity
+    guid: 6a4ee3666859941648bab62420eaf361
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/maansverduistering/maan-maansverduistering-quiz1.unity
+    guid: 623e6b54cd47c4eb496c834e226a7c5f
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/maansverduistering/maan-maansverduistering-quiz2.unity
+    guid: 7cf2d9fa234264c86a181f46c183ada4
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/maansverduistering/maan-maansverduistering-quiz3.unity
+    guid: aca2b1bf4fb3147989c28d57a349ac06
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/ontstaan/maan-ontstaan-quiz1.unity
+    guid: b50185d728e434bd4b8a6e4ac71d2f5a
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/ontstaan/maan-ontstaan-quiz2.unity
+    guid: 8eda66c255d064c86823bd9471c7cbcf
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/ontstaan/maan-ontstaan-quiz3.unity
+    guid: e40edb768d8254f439d0e10c7ad95e0a
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/wat/maan-wat-quiz1.unity
+    guid: ca6363d5602e94c27894895031535146
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/wat/maan-wat-quiz2.unity
+    guid: 5ba30ef0753c44072801eff2ce6dac41
+  - enabled: 1
+    path: Assets/Scenes/quizzes/maan/wat/maan-wat-quiz3.unity
+    guid: a01b16c3b10b64636a67231bec2be86d
+  - enabled: 1
+    path: Assets/Scenes/quizzes/zon/wat/zon-wat-quiz1.unity
+    guid: 301cd196874bf431ea72877ad4a55f49
+  - enabled: 1
+    path: Assets/Scenes/quizzes/zon/wat/zon-wat-quiz2.unity
+    guid: e6903ae220bd949c48a433d0bf0b63d8
+  - enabled: 1
+    path: Assets/Scenes/quizzes/zon/wat/zon-wat-quiz3.unity
+    guid: 15f1306ee1ecb41058bbcfcdcfe0b279
+  - enabled: 1
+    path: Assets/Scenes/quizzes/zon/zonsverduistering/zon-zonsverduistering-quiz1.unity
+    guid: 2b9fc83cf154c4ca080eb3e8fa24f6f4
+  - enabled: 1
+    path: Assets/Scenes/quizzes/zon/zonsverduistering/zon-zonsverduistering-quiz2.unity
+    guid: 82c39b98d194e47fd84020f3aecb0762
+  - enabled: 1
+    path: Assets/Scenes/quizzes/zon/zonsverduistering/zon-zonsverduistering-quiz3.unity
+    guid: 1606e5f7fb2c1434d9b3821b7f99e4d6
   m_configObjects: {}

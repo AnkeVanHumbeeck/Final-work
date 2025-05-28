@@ -1064,7 +1064,7 @@ GameObject:
   - component: {fileID: 369881398}
   - component: {fileID: 369881397}
   m_Layer: 5
-  m_Name: Maanfases
+  m_Name: maan-maanfases-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1349,7 +1349,7 @@ GameObject:
   - component: {fileID: 536885995}
   - component: {fileID: 536885994}
   m_Layer: 5
-  m_Name: Maansverduistering
+  m_Name: maan-maansverduistering-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2796,7 +2796,7 @@ GameObject:
   - component: {fileID: 1198211343}
   - component: {fileID: 1198211342}
   m_Layer: 5
-  m_Name: Ontstaan maan
+  m_Name: maan-ontstaan-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4220,7 +4220,7 @@ GameObject:
   - component: {fileID: 2050448599}
   - component: {fileID: 2050448598}
   m_Layer: 5
-  m_Name: Wat is de maan
+  m_Name: maan-wat-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

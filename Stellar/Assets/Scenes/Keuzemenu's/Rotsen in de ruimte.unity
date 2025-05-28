@@ -618,7 +618,7 @@ GameObject:
   - component: {fileID: 242633639}
   - component: {fileID: 242633638}
   m_Layer: 5
-  m_Name: Meteoriet
+  m_Name: rotsen-meteorieten-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2609,7 +2609,7 @@ GameObject:
   - component: {fileID: 1155436945}
   - component: {fileID: 1155436944}
   m_Layer: 5
-  m_Name: Vallende ster
+  m_Name: rotsen-vallende-ster-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2764,7 +2764,7 @@ GameObject:
   - component: {fileID: 1279871247}
   - component: {fileID: 1279871246}
   m_Layer: 5
-  m_Name: Rotsen algemeen
+  m_Name: rotsen-algemeen
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3759,7 +3759,7 @@ GameObject:
   - component: {fileID: 1688198663}
   - component: {fileID: 1688198662}
   m_Layer: 5
-  m_Name: "Astero\xEFden"
+  m_Name: "rotsen-astero\xEFden-scene1"
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4528,7 +4528,7 @@ GameObject:
   - component: {fileID: 2026491483}
   - component: {fileID: 2026491482}
   m_Layer: 5
-  m_Name: Komeet
+  m_Name: rotsen-kometen-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
