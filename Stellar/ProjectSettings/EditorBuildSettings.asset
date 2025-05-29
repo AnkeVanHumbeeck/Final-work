@@ -366,6 +366,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Minigames/Maan-minigame.unity
     guid: a81bbd6eef90ec540b5cda311c55c1c4
   - enabled: 1
+    path: Assets/Scenes/Minigames/Rotsen-minigame.unity
+    guid: 474196b6ed269b044860d5692db9f8bf
+  - enabled: 1
     path: "Assets/Scenes/quizzes/rotsen/asteroi\u0308den/rotsen-astero\xEFden-quiz1.unity"
     guid: a1afad233aaa446f18b9906c72224a4b
   - enabled: 1
@@ -455,4 +458,40 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/quizzes/zon/zonsverduistering/zon-zonsverduistering-quiz3.unity
     guid: 1606e5f7fb2c1434d9b3821b7f99e4d6
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/andromedastelsel/sterren-andromedastelsel-quiz1.unity
+    guid: bb7247cbb06d14dcba755191a679111e
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/andromedastelsel/sterren-andromedastelsel-quiz2.unity
+    guid: 09b0e7bc39aeb4e0ca5f9658c934aa6b
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/andromedastelsel/sterren-andromedastelsel-quiz3.unity
+    guid: 625b63067be3c4a9684ec5a7940bd3fa
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/leven/sterren-leven-quiz1.unity
+    guid: 5c3513dbae6e0434ca74c7579275946a
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/leven/sterren-leven-quiz2.unity
+    guid: 432fdba36aa1647cb8d1d42674cbe612
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/leven/sterren-leven-quiz3.unity
+    guid: e6fa1f7b2d92245788b40c56d20782b0
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/proxima/sterren-proxima-quiz1.unity
+    guid: 12fe4cebe5ac94164867dc08db1a2152
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/proxima/sterren-proxima-quiz2.unity
+    guid: c9593949ffdcd481d91ea99f1b95489d
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/proxima/sterren-proxima-quiz3.unity
+    guid: 95d68d6273728474fa04936c67fa2b7b
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/sterrenbeelden/sterren-sterrenbeelden-quiz1.unity
+    guid: 44d7b1f683e3a44f3a123efe88fa21f5
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/sterrenbeelden/sterren-sterrenbeelden-quiz2.unity
+    guid: cd0415a1ebb04463393228f211b3609f
+  - enabled: 1
+    path: Assets/Scenes/quizzes/sterren/sterrenbeelden/sterren-sterrenbeelden-quiz3.unity
+    guid: 3fd7a2b7796d14870b5bafa13124ec13
   m_configObjects: {}

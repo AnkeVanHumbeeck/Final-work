@@ -1352,7 +1352,7 @@ GameObject:
   - component: {fileID: 536885995}
   - component: {fileID: 536885994}
   m_Layer: 5
-  m_Name: Leven van een ster
+  m_Name: sterren-leven-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2294,7 +2294,7 @@ GameObject:
   - component: {fileID: 1016484301}
   - component: {fileID: 1016484300}
   m_Layer: 5
-  m_Name: Andromeda
+  m_Name: sterren-andromedastelsel-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3331,7 +3331,7 @@ GameObject:
   - component: {fileID: 1570164422}
   - component: {fileID: 1570164421}
   m_Layer: 5
-  m_Name: Sterrenbeelden
+  m_Name: sterren-sterrenbeelden-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3906,7 +3906,7 @@ GameObject:
   - component: {fileID: 2050448599}
   - component: {fileID: 2050448598}
   m_Layer: 5
-  m_Name: Proxima Centauri
+  m_Name: sterren-proxima-scene1
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
