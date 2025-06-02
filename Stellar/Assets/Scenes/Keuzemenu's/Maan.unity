@@ -3203,7 +3203,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 831.24976, y: -448.99997}
+  m_AnchoredPosition: {x: 831.25, y: -448.99997}
   m_SizeDelta: {x: 55.052, y: 61.819}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1219262624
@@ -4422,7 +4422,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Planeten-minigame-even groot
+  sceneName: Maan-minigame
 --- !u!4 &1841999387
 Transform:
   m_ObjectHideFlags: 0

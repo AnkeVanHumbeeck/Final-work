@@ -10,16 +10,27 @@ public class MusicManager : MonoBehaviour
 
     private static MusicManager instance;
 
+    [SerializeField] private string[] allowedScenes;
+
     void Awake()
     {
         if (instance == null)
         {
             instance = this;
-            DontDestroyOnLoad(gameObject); // Keep this object across scene loads
+            DontDestroyOnLoad(gameObject);
+            SceneManager.sceneLoaded += OnSceneLoaded;
         }
         else
         {
-            Destroy(gameObject); // Destroy duplicates
+            Destroy(gameObject);
+        }
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        if (System.Array.IndexOf(allowedScenes, scene.name) == -1)
+        {
+            Destroy(gameObject);
         }
     }
 
@@ -32,6 +43,11 @@ public class MusicManager : MonoBehaviour
     {
         float MusicVol = PlayerPrefs.GetFloat("musicVolume", 0.75f);
         myMixer.SetFloat("Music", Mathf.Log10(MusicVol) * 20);
+    }
+
+    void OnDestroy()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
     }
 
 }

@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/rotsen/algemeen/rotsen-algemeen.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Main menu.unity
+    guid: 320c426ef4eaaf742bc783b8dbda83ba
+  - enabled: 1
+    path: Assets/Scenes/Instellingen.unity
+    guid: 7772d5cedb6597b429fa0ee9876fadb8
   - enabled: 1
     path: Assets/Scenes/Keuzemenu's/Keuzemenu-algemeen.unity
     guid: 4161f52c0145dec4d98306f15c7f0aaa
@@ -26,6 +29,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Keuzemenu's/Rotsen in de ruimte.unity
     guid: 3621871e6dd89004a8481859070be5bb
+  - enabled: 1
+    path: Assets/Scenes/Gallerij/Gallerij Maan.unity
+    guid: 8f0805fb00817aa448a1368e50cfb730
+  - enabled: 1
+    path: Assets/Scenes/Gallerij/Gallerij Planeten.unity
+    guid: 9cb09207665911e42b385e0485d69456
+  - enabled: 1
+    path: Assets/Scenes/Gallerij/Gallerij Planeten-1.unity
+    guid: c77c1eb3a9085124db10551eaa4d9492
+  - enabled: 1
+    path: Assets/Scenes/Gallerij/Gallerij Rotsen.unity
+    guid: dd04f58059b4cfc49adda1d64ca1a24a
+  - enabled: 1
+    path: Assets/Scenes/Gallerij/Gallerij Sterren.unity
+    guid: f8057f9d0ea54b6479d00ac349f71fe9
+  - enabled: 1
+    path: Assets/Scenes/Gallerij/Gallerij Zon.unity
+    guid: 3407298970c5f0d48aa627b82a57587d
+  - enabled: 1
+    path: Assets/Scenes/rotsen/algemeen/rotsen-algemeen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: "Assets/Scenes/rotsen/asteroi\u0308den/rotsen-astero\xEFden-scene1.unity"
     guid: d766aa851ddf9480cbbc029e8202fcde
@@ -218,6 +242,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/sterren/sterrenbeelden/sterren-sterrenbeelden-scene6.unity
     guid: 04cc0e5c9d8e44bc8be41b11ee681f36
+  - enabled: 1
+    path: Assets/Scenes/planeten/soorten/planeten-soorten-scene1.unity
+    guid: e4c450648a0e44e429cfab772e2929ed
+  - enabled: 1
+    path: Assets/Scenes/planeten/soorten/planeten-soorten-scene2.unity
+    guid: 8f9041e848e9f4b5da4673bf728b7aa3
+  - enabled: 1
+    path: Assets/Scenes/planeten/soorten/planeten-soorten-scene3.unity
+    guid: 598a702bd8b5c4f6483ccb1d211bdc08
+  - enabled: 1
+    path: Assets/Scenes/planeten/soorten/planeten-soorten-scene4.unity
+    guid: e8d2e913983e94d879a0c6ee31bc99db
+  - enabled: 1
+    path: Assets/Scenes/planeten/soorten/planeten-soorten-scene5.unity
+    guid: 366801665ee214a268f237c2292b182f
+  - enabled: 1
+    path: Assets/Scenes/planeten/soorten/planeten-soorten-scene6.unity
+    guid: b8f577025a1424c4d9db9325027b8a0c
   - enabled: 1
     path: Assets/Scenes/planeten/mercurius/planeten-mercurius-scene1.unity
     guid: cd41c05cbca294eb5912dd5f66eaa5df

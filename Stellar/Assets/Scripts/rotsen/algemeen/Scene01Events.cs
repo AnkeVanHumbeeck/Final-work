@@ -17,6 +17,7 @@ public class Scene01Events : MonoBehaviour
     [SerializeField] int textLength;
     [SerializeField] GameObject mainTextObject;
     [SerializeField] CanvasGroup nextButtonCanvasGroup;
+    [SerializeField] CanvasGroup previousButtonCanvasGroup;
 
     void Start()
     {
@@ -44,6 +45,10 @@ public class Scene01Events : MonoBehaviour
         nextButtonCanvasGroup.interactable = false;
         nextButtonCanvasGroup.blocksRaycasts = false;
 
+        previousButtonCanvasGroup.alpha = 0.5f;
+        previousButtonCanvasGroup.interactable = false;
+        previousButtonCanvasGroup.blocksRaycasts = false;
+
         mainTextObject.SetActive(true);
         textToSpeak = "Lang geleden, toen de zon en de planeten ontstonden, bleven er veel rotsblokken rondzwerven in de ruimte. Tot op de dag van vandaag vliegen er miljoenen van deze rotsblokken rond!";
         textBox.GetComponent<TMPro.TMP_Text>().text = textToSpeak;
@@ -65,10 +70,19 @@ public class Scene01Events : MonoBehaviour
         nextButtonCanvasGroup.alpha = 1f;
         nextButtonCanvasGroup.interactable = true;
         nextButtonCanvasGroup.blocksRaycasts = true;
+
+        previousButtonCanvasGroup.alpha = 1f;
+        previousButtonCanvasGroup.interactable = true;
+        previousButtonCanvasGroup.blocksRaycasts = true;
     }
 
     public void nextScene()
     {
-        SceneManager.LoadScene("rotsen-kometen-scene1");
+        SceneManager.LoadScene("Rotsen in de ruimte");
+    }
+
+    public void previousScene()
+    {
+        SceneManager.LoadScene("Rotsen in de ruimte");
     }
 }

@@ -1251,7 +1251,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Planeten-minigame-even groot
+  sceneName: Sterren-minigame
 --- !u!4 &388471160
 Transform:
   m_ObjectHideFlags: 0
