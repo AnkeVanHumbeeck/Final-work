@@ -2705,7 +2705,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Instellingen
+  sceneName: instellingen
 --- !u!4 &1048225186
 Transform:
   m_ObjectHideFlags: 0
@@ -3623,7 +3623,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Gallerij Zon
+  sceneName: gallerij zon
 --- !u!4 &1361279349
 Transform:
   m_ObjectHideFlags: 0
@@ -4222,7 +4222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Main menu
+  sceneName: main menu
 --- !u!4 &1764920944
 Transform:
   m_ObjectHideFlags: 0
@@ -4377,7 +4377,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Keuzemenu-algemeen
+  sceneName: keuzemenu-algemeen
 --- !u!4 &1831794961
 Transform:
   m_ObjectHideFlags: 0
@@ -4422,7 +4422,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Maan-minigame
+  sceneName: maan-minigame
 --- !u!4 &1841999387
 Transform:
   m_ObjectHideFlags: 0

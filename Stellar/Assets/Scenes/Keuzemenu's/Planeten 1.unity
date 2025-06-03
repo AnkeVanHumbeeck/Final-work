@@ -186,7 +186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Main menu
+  sceneName: main menu
 --- !u!4 &56025743
 Transform:
   m_ObjectHideFlags: 0
@@ -877,7 +877,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 793.3086, y: 960.1047}
+  m_AnchoredPosition: {x: 845.9915, y: 989.0245}
   m_SizeDelta: {x: 56.888, y: 58.47}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &404960410
@@ -1205,7 +1205,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Gallerij Zon
+  sceneName: gallerij zon
 --- !u!4 &531496740
 Transform:
   m_ObjectHideFlags: 0
@@ -1609,7 +1609,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Planeten
+  sceneName: planeten
 --- !u!4 &698344931
 Transform:
   m_ObjectHideFlags: 0
@@ -1730,7 +1730,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 705.94885, y: 420.01007}
+  m_AnchoredPosition: {x: 756.0001, y: 449}
   m_SizeDelta: {x: 66.85, y: 58.616}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &752220423
@@ -4265,7 +4265,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -849.1995, y: 420.01007}
+  m_AnchoredPosition: {x: -845.9916, y: 449}
   m_SizeDelta: {x: 70.432, y: 58.616}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1767818936
@@ -5345,7 +5345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Instellingen
+  sceneName: instellingen
 --- !u!4 &2106785305
 Transform:
   m_ObjectHideFlags: 0
@@ -5425,7 +5425,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Planeten-minigame-even groot
+  sceneName: planeten-minigame
 --- !u!4 &2132365420
 Transform:
   m_ObjectHideFlags: 0
@@ -5448,8 +5448,8 @@ SceneRoots:
   - {fileID: 1106047808}
   - {fileID: 1304156236}
   - {fileID: 755062417}
-  - {fileID: 698344931}
   - {fileID: 684631656}
+  - {fileID: 698344931}
   - {fileID: 56025743}
   - {fileID: 2132365420}
   - {fileID: 531496740}

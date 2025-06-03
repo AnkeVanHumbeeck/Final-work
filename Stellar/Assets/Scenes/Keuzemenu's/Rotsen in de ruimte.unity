@@ -291,7 +291,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Rotsen-minigame
+  sceneName: rotsen-minigame
 --- !u!4 &51909153
 Transform:
   m_ObjectHideFlags: 0
@@ -831,7 +831,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -849.1995, y: 420.01007}
+  m_AnchoredPosition: {x: -845.9916, y: 449}
   m_SizeDelta: {x: 70.432, y: 58.616}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &308168442
@@ -2103,7 +2103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Gallerij Zon
+  sceneName: gallerij zon
 --- !u!4 &892490105
 Transform:
   m_ObjectHideFlags: 0
@@ -3138,7 +3138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Keuzemenu-algemeen
+  sceneName: keuzemenu-algemeen
 --- !u!4 &1232357240
 Transform:
   m_ObjectHideFlags: 0
@@ -4003,7 +4003,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Main menu
+  sceneName: main menu
 --- !u!4 &1580892809
 Transform:
   m_ObjectHideFlags: 0
@@ -4998,7 +4998,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 705.94885, y: 420.01007}
+  m_AnchoredPosition: {x: 756.0001, y: 449}
   m_SizeDelta: {x: 66.85, y: 58.616}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1980457074
@@ -5372,7 +5372,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 793.3086, y: 960.1047}
+  m_AnchoredPosition: {x: 845.9915, y: 989.0245}
   m_SizeDelta: {x: 56.888, y: 58.47}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2083519118
@@ -5498,7 +5498,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Instellingen
+  sceneName: instellingen
 --- !u!4 &2094403537
 Transform:
   m_ObjectHideFlags: 0
@@ -5731,8 +5731,8 @@ SceneRoots:
   - {fileID: 1318396205}
   - {fileID: 969460810}
   - {fileID: 659494884}
-  - {fileID: 1232357240}
   - {fileID: 314541252}
+  - {fileID: 1232357240}
   - {fileID: 1580892809}
   - {fileID: 51909153}
   - {fileID: 892490105}

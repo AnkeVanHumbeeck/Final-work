@@ -1545,7 +1545,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 673.84265, y: 401.5556}
+  m_AnchoredPosition: {x: 756.0001, y: 449}
   m_SizeDelta: {x: 66.85, y: 58.616}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &707486176
@@ -1712,7 +1712,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 745.4861, y: -453.4075}
+  m_AnchoredPosition: {x: 831.25, y: -453.4075}
   m_SizeDelta: {x: 55.052, y: 61.819}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &749063882
@@ -1759,7 +1759,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 887420213}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
         m_MethodName: LoadScene
         m_Mode: 1
@@ -1906,7 +1906,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Main menu
+  sceneName: main menu
 --- !u!4 &764110067
 Transform:
   m_ObjectHideFlags: 0
@@ -1957,51 +1957,6 @@ RectTransform:
   m_AnchoredPosition: {x: -872.7, y: 94.003}
   m_SizeDelta: {x: 27.0471, y: 27.0471}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &887420212
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 887420214}
-  - component: {fileID: 887420213}
-  m_Layer: 0
-  m_Name: SceneManager (3)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &887420213
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 887420212}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sceneName: Planeten-minigame-even groot
---- !u!4 &887420214
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 887420212}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 367.8639, y: 359.61823, z: -4.8265224}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &909569416
 GameObject:
   m_ObjectHideFlags: 0
@@ -2171,7 +2126,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 759.5211, y: 941.62524}
+  m_AnchoredPosition: {x: 845.9915, y: 989.0245}
   m_SizeDelta: {x: 56.888, y: 58.47}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &972385532
@@ -3042,7 +2997,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -851.37317, y: 401.5556}
+  m_AnchoredPosition: {x: -851.37317, y: 449}
   m_SizeDelta: {x: 70.432, y: 58.616}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1336880091
@@ -3413,7 +3368,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Gallerij Zon
+  sceneName: gallerij zon
 --- !u!4 &1797108402
 Transform:
   m_ObjectHideFlags: 0
@@ -3458,7 +3413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Keuzemenu-algemeen
+  sceneName: keuzemenu-algemeen
 --- !u!4 &1831794961
 Transform:
   m_ObjectHideFlags: 0
@@ -3788,7 +3743,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Instellingen
+  sceneName: instellingen
 --- !u!4 &2075086874
 Transform:
   m_ObjectHideFlags: 0
@@ -3951,9 +3906,8 @@ SceneRoots:
   - {fileID: 1106047808}
   - {fileID: 1304156236}
   - {fileID: 755062417}
-  - {fileID: 1831794961}
   - {fileID: 665521276}
+  - {fileID: 1831794961}
   - {fileID: 764110067}
-  - {fileID: 887420214}
   - {fileID: 1797108402}
   - {fileID: 2075086874}

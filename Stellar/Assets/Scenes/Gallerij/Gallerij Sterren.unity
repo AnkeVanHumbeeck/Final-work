@@ -1531,7 +1531,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Gallerij Maan
+  sceneName: gallerij maan
 --- !u!4 &1494153299
 Transform:
   m_ObjectHideFlags: 0
@@ -1668,7 +1668,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Gallerij Rotsen
+  sceneName: gallerij rotsen
 --- !u!4 &1831794961
 Transform:
   m_ObjectHideFlags: 0

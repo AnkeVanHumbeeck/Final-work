@@ -1147,6 +1147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe6dcc749c941254692c027d7a48f644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fallbackScene: Main menu
 --- !u!1 &1494153297
 GameObject:
   m_ObjectHideFlags: 0
@@ -1191,7 +1192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9a4248da0eece542a26a7e93a36e99e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: 
+  sceneName: 
 --- !u!1 &1831794959
 GameObject:
   m_ObjectHideFlags: 0
@@ -1221,7 +1222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Gallerij Planeten
+  sceneName: gallerij planeten
 --- !u!4 &1831794961
 Transform:
   m_ObjectHideFlags: 0

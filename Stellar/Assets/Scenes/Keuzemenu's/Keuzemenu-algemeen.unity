@@ -505,7 +505,7 @@ GameObject:
   - component: {fileID: 102045268}
   - component: {fileID: 102045270}
   m_Layer: 5
-  m_Name: Sterrenstelsel
+  m_Name: sterrenstelsel
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -583,6 +583,51 @@ MonoBehaviour:
   radius: 5
   minDuration: 2.5
   maxDuration: 4
+--- !u!1 &112113482
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 112113484}
+  - component: {fileID: 112113483}
+  m_Layer: 0
+  m_Name: SceneManager (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &112113483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112113482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: gallerij zon
+--- !u!4 &112113484
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112113482}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 400.09903, y: 274.31842, z: -10.00251}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &121536778
 GameObject:
   m_ObjectHideFlags: 0
@@ -2035,7 +2080,7 @@ GameObject:
   - component: {fileID: 742612576}
   - component: {fileID: 742612578}
   m_Layer: 5
-  m_Name: Zon
+  m_Name: zon
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2161,7 +2206,7 @@ GameObject:
   - component: {fileID: 778464533}
   - component: {fileID: 778464535}
   m_Layer: 5
-  m_Name: Planeten
+  m_Name: planeten
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2497,7 +2542,7 @@ GameObject:
   - component: {fileID: 882783782}
   - component: {fileID: 882783784}
   m_Layer: 5
-  m_Name: Maan
+  m_Name: maan
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3109,7 +3154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Main menu
+  sceneName: main menu
 --- !u!4 &963659774
 Transform:
   m_ObjectHideFlags: 0
@@ -3831,8 +3876,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+      - m_Target: {fileID: 112113483}
+        m_TargetAssemblyTypeName: Navigation, Assembly-CSharp
         m_MethodName: LoadScene
         m_Mode: 1
         m_Arguments:
@@ -3929,7 +3974,7 @@ GameObject:
   - component: {fileID: 1260986822}
   - component: {fileID: 1260986824}
   m_Layer: 5
-  m_Name: Rotsen in de ruimte
+  m_Name: rotsen in de ruimte
   m_TagString: LevelPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5374,6 +5419,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1845509881}
   m_CullTransparentMesh: 1
+--- !u!1 &1889004192
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1889004194}
+  - component: {fileID: 1889004193}
+  m_Layer: 0
+  m_Name: SceneManager (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1889004193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889004192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: instellingen
+--- !u!4 &1889004194
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889004192}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 400.09903, y: 274.31842, z: -10.00251}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1890796112
 GameObject:
   m_ObjectHideFlags: 0
@@ -5596,8 +5686,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+      - m_Target: {fileID: 1889004193}
+        m_TargetAssemblyTypeName: Navigation, Assembly-CSharp
         m_MethodName: LoadScene
         m_Mode: 1
         m_Arguments:
@@ -6033,3 +6123,5 @@ SceneRoots:
   - {fileID: 1140552121}
   - {fileID: 1633877616}
   - {fileID: 963659774}
+  - {fileID: 1889004194}
+  - {fileID: 112113484}

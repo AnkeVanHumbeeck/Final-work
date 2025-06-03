@@ -534,7 +534,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -851.37317, y: 401.5556}
+  m_AnchoredPosition: {x: -851.37317, y: 449}
   m_SizeDelta: {x: 70.432, y: 58.616}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &174514971
@@ -1251,7 +1251,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Sterren-minigame
+  sceneName: sterren-minigame
 --- !u!4 &388471160
 Transform:
   m_ObjectHideFlags: 0
@@ -2171,7 +2171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Main menu
+  sceneName: main menu
 --- !u!4 &765886526
 Transform:
   m_ObjectHideFlags: 0
@@ -2222,7 +2222,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 673.84265, y: 401.5556}
+  m_AnchoredPosition: {x: 756.0001, y: 449}
   m_SizeDelta: {x: 66.85, y: 58.616}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &767015732
@@ -2494,7 +2494,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 759.5211, y: 941.62524}
+  m_AnchoredPosition: {x: 845.9915, y: 989.0245}
   m_SizeDelta: {x: 56.888, y: 58.47}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &873032154
@@ -3399,7 +3399,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Gallerij Zon
+  sceneName: gallerij zon
 --- !u!4 &1151932018
 Transform:
   m_ObjectHideFlags: 0
@@ -4484,7 +4484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Keuzemenu-algemeen
+  sceneName: keuzemenu-algemeen
 --- !u!4 &1831794961
 Transform:
   m_ObjectHideFlags: 0
@@ -4779,7 +4779,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c75c197a92a60464c92708f4e16cae94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Instellingen
+  sceneName: instellingen
 --- !u!4 &2070643090
 Transform:
   m_ObjectHideFlags: 0
@@ -5076,8 +5076,8 @@ SceneRoots:
   - {fileID: 1106047808}
   - {fileID: 1304156236}
   - {fileID: 755062417}
-  - {fileID: 1831794961}
   - {fileID: 1737108414}
+  - {fileID: 1831794961}
   - {fileID: 765886526}
   - {fileID: 388471160}
   - {fileID: 1151932018}

@@ -14,7 +14,7 @@ public static class SceneTracker
         while (sceneHistory.Count > 0)
         {
             string previous = sceneHistory.Pop();
-            if (!previous.StartsWith("Gallerij"))
+            if (!previous.StartsWith("gallerij"))
             {
                 return previous;
             }
