@@ -118,7 +118,6 @@ public class RocketDragHandler : MonoBehaviour, IBeginDragHandler, IDragHandler,
         {
             if (result.CompareTag("LevelPoint"))
             {
-                Debug.Log("Dropped on level: " + result.name);
                 SceneManager.LoadScene(result.name);
                 return true;
             }
