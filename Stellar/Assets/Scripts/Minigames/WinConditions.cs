@@ -1,10 +1,14 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using TMPro;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
     public Drag[] items;
+    public TMP_Text resultText;
+
     [Tooltip("Name of the scene to load after winning.")]
     public string nextSceneName = "Sterren-vragen";
 
@@ -15,6 +19,7 @@ public class GameManager : MonoBehaviour
             if (!item.locked)
                 return;
         }
+        resultText.text = "Proficiat! Alles is juist";
 
         StartCoroutine(WinAndLoadNextScene());
     }

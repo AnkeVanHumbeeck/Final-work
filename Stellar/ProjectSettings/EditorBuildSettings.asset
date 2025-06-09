@@ -24,73 +24,76 @@ EditorBuildSettings:
     path: Assets/Scenes/Keuzemenu's/sterren.unity
     guid: 4b7ad0c5abdeee7498cfb367d84c71f8
   - enabled: 1
+    path: Assets/Scenes/Keuzemenu's/maan.unity
+    guid: 185cdf02f0e40434ca0143a6eac3fc70
+  - enabled: 1
     path: Assets/Scenes/Keuzemenu's/zon.unity
     guid: 608d85cfacb10384ab64acc5b71d79e0
   - enabled: 1
     path: Assets/Scenes/Keuzemenu's/rotsen in de ruimte.unity
     guid: 3621871e6dd89004a8481859070be5bb
   - enabled: 1
-    path: Assets/Scenes/Gallerij/gallerij maan.unity
+    path: Assets/Scenes/Galerij/galerij maan.unity
     guid: 8f0805fb00817aa448a1368e50cfb730
   - enabled: 1
-    path: Assets/Scenes/Gallerij/gallerij planeten.unity
+    path: Assets/Scenes/Galerij/galerij planeten.unity
     guid: 9cb09207665911e42b385e0485d69456
   - enabled: 1
-    path: Assets/Scenes/Gallerij/gallerij planeten-1.unity
+    path: Assets/Scenes/Galerij/galerij planeten-1.unity
     guid: c77c1eb3a9085124db10551eaa4d9492
   - enabled: 1
-    path: Assets/Scenes/Gallerij/gallerij rotsen.unity
+    path: Assets/Scenes/Galerij/galerij rotsen.unity
     guid: dd04f58059b4cfc49adda1d64ca1a24a
   - enabled: 1
-    path: Assets/Scenes/Gallerij/gallerij sterren.unity
+    path: Assets/Scenes/Galerij/galerij sterren.unity
     guid: f8057f9d0ea54b6479d00ac349f71fe9
   - enabled: 1
-    path: Assets/Scenes/Gallerij/gallerij zon.unity
+    path: Assets/Scenes/Galerij/galerij zon.unity
     guid: 3407298970c5f0d48aa627b82a57587d
   - enabled: 1
-    path: Assets/Scenes/Rotsen/algemeen/rotsen-algemeen.unity
+    path: Assets/Scenes/Rotsen/Algemeen/rotsen-algemeen.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: "Assets/Scenes/Rotsen/asteroi\u0308den/rotsen-astero\xEFden-scene1.unity"
+    path: "Assets/Scenes/Rotsen/Asteroi\u0308den/rotsen-astero\xEFden-scene1.unity"
     guid: d766aa851ddf9480cbbc029e8202fcde
   - enabled: 1
-    path: "Assets/Scenes/Rotsen/asteroi\u0308den/rotsen-asteroi\u0308den-scene2.unity"
+    path: "Assets/Scenes/Rotsen/Asteroi\u0308den/rotsen-asteroi\u0308den-scene2.unity"
     guid: 56ba813f6e74c46e080cfb3fcbb57924
   - enabled: 1
-    path: Assets/Scenes/Rotsen/kometen/rotsen-kometen-scene1.unity
+    path: Assets/Scenes/Rotsen/Kometen/rotsen-kometen-scene1.unity
     guid: 1bc91a4f71e104144811bfcc25999cc1
   - enabled: 1
-    path: Assets/Scenes/Rotsen/kometen/rotsen-kometen-scene2.unity
+    path: Assets/Scenes/Rotsen/Kometen/rotsen-kometen-scene2.unity
     guid: 51415c8a8f5fe4e7b93eba1dd0be6f2a
   - enabled: 1
-    path: Assets/Scenes/Rotsen/kometen/rotsen-kometen-scene3.unity
+    path: Assets/Scenes/Rotsen/Kometen/rotsen-kometen-scene3.unity
     guid: f6d743dc373b74433b7a067fc768095d
   - enabled: 1
-    path: Assets/Scenes/Rotsen/meteorieten/rotsen-meteorieten-scene1.unity
+    path: Assets/Scenes/Rotsen/Meteorieten/rotsen-meteorieten-scene1.unity
     guid: 4dba95db3214f437997b36b74c458249
   - enabled: 1
-    path: Assets/Scenes/Rotsen/meteorieten/rotsen-meteorieten-scene2.unity
+    path: Assets/Scenes/Rotsen/Meteorieten/rotsen-meteorieten-scene2.unity
     guid: ebaecb8a096ab4666bcff9cba980bb1e
   - enabled: 1
-    path: Assets/Scenes/Rotsen/meteorieten/rotsen-meteorieten-scene3.unity
+    path: Assets/Scenes/Rotsen/Meteorieten/rotsen-meteorieten-scene3.unity
     guid: 924f98e64c6a44f72b42ddf7532a21ec
   - enabled: 1
-    path: Assets/Scenes/Rotsen/meteorieten/rotsen-meteorieten-scene4.unity
+    path: Assets/Scenes/Rotsen/Meteorieten/rotsen-meteorieten-scene4.unity
     guid: 6a2ef7fca7c25494bbdc72f78a8c613c
   - enabled: 1
-    path: Assets/Scenes/Rotsen/meteorieten/rotsen-meteorieten-scene5.unity
+    path: Assets/Scenes/Rotsen/Meteorieten/rotsen-meteorieten-scene5.unity
     guid: c8a4d02394f9e4f55ad1f8bbb5256bdd
   - enabled: 1
-    path: Assets/Scenes/Rotsen/vallendeSter/rotsen-vallende-ster-scene1.unity
+    path: Assets/Scenes/Rotsen/Vallende ster/rotsen-vallende-ster-scene1.unity
     guid: 1c67ed19722474d01bfbaad603248cb9
   - enabled: 1
-    path: Assets/Scenes/Rotsen/vallendeSter/rotsen-vallende-ster-scene2.unity
+    path: Assets/Scenes/Rotsen/Vallende ster/rotsen-vallende-ster-scene2.unity
     guid: 904d950d6b8154da3a4bce3c75c6c4f0
   - enabled: 1
-    path: Assets/Scenes/Rotsen/vallendeSter/rotsen-vallende-ster-scene3.unity
+    path: Assets/Scenes/Rotsen/Vallende ster/rotsen-vallende-ster-scene3.unity
     guid: 4e359be76ad184b23860eff79e071b8d
   - enabled: 1
-    path: Assets/Scenes/Rotsen/vallendeSter/rotsen-vallende-ster-scene4.unity
+    path: Assets/Scenes/Rotsen/Vallende ster/rotsen-vallende-ster-scene4.unity
     guid: d8a189df0bfaa45f99414804eafc108e
   - enabled: 1
     path: Assets/Scenes/Zon/Wat/zon-wat-scene1.unity
@@ -411,219 +414,219 @@ EditorBuildSettings:
     path: Assets/Scenes/Minigames/rotsen-minigame.unity
     guid: 474196b6ed269b044860d5692db9f8bf
   - enabled: 1
-    path: "Assets/Scenes/Quizzes/rotsen/asteroi\u0308den/rotsen-astero\xEFden-quiz1.unity"
+    path: "Assets/Scenes/Quizzes/Rotsen/Asteroi\u0308den/rotsen-astero\xEFden-quiz1.unity"
     guid: a1afad233aaa446f18b9906c72224a4b
   - enabled: 1
-    path: "Assets/Scenes/Quizzes/rotsen/asteroi\u0308den/rotsen-asteroi\u0308den-quiz2.unity"
+    path: "Assets/Scenes/Quizzes/Rotsen/Asteroi\u0308den/rotsen-asteroi\u0308den-quiz2.unity"
     guid: 39a7d0e5f8d3d4c7ebbf82b6d5442c91
   - enabled: 1
-    path: "Assets/Scenes/Quizzes/rotsen/asteroi\u0308den/rotsen-asteroi\u0308den-quiz3.unity"
+    path: "Assets/Scenes/Quizzes/Rotsen/Asteroi\u0308den/rotsen-asteroi\u0308den-quiz3.unity"
     guid: 1b36717e4c83240778eebe1d1dc1b8af
   - enabled: 1
-    path: Assets/Scenes/Quizzes/rotsen/kometen/rotsen-kometen-quiz1.unity
+    path: Assets/Scenes/Quizzes/Rotsen/Kometen/rotsen-kometen-quiz1.unity
     guid: 6452458c6a3c540ca8cce4c456de8cef
   - enabled: 1
-    path: Assets/Scenes/Quizzes/rotsen/kometen/rotsen-kometen-quiz2.unity
+    path: Assets/Scenes/Quizzes/Rotsen/Kometen/rotsen-kometen-quiz2.unity
     guid: f93b258a9bff9498e998b4c7dd2b8684
   - enabled: 1
-    path: Assets/Scenes/Quizzes/rotsen/kometen/rotsen-kometen-quiz3.unity
+    path: Assets/Scenes/Quizzes/Rotsen/Kometen/rotsen-kometen-quiz3.unity
     guid: 17524cdc6cccd4ae7bd2e9ba2e60c0b7
   - enabled: 1
-    path: Assets/Scenes/Quizzes/rotsen/meteorieten/rotsen-meteorieten-quiz1.unity
+    path: Assets/Scenes/Quizzes/Rotsen/Meteorieten/rotsen-meteorieten-quiz1.unity
     guid: 39b016f83033e42248bb90692a33807c
   - enabled: 1
-    path: Assets/Scenes/Quizzes/rotsen/meteorieten/rotsen-meteorieten-quiz2.unity
+    path: Assets/Scenes/Quizzes/Rotsen/Meteorieten/rotsen-meteorieten-quiz2.unity
     guid: 3ff3a9f8b2683457aab83a32bc589276
   - enabled: 1
-    path: Assets/Scenes/Quizzes/rotsen/meteorieten/rotsen-meteorieten-quiz3.unity
+    path: Assets/Scenes/Quizzes/Rotsen/Meteorieten/rotsen-meteorieten-quiz3.unity
     guid: c6bc0de13cc8e4a24b657e7786382f19
   - enabled: 1
-    path: Assets/Scenes/Quizzes/rotsen/vallende-ster/rotsen-vallende-ster-quiz1.unity
+    path: Assets/Scenes/Quizzes/Rotsen/Vallende ster/rotsen-vallende-ster-quiz1.unity
     guid: 4b476571ae27f4a16a4b86fab09de3be
   - enabled: 1
-    path: Assets/Scenes/Quizzes/rotsen/vallende-ster/rotsen-vallende-ster-quiz2.unity
+    path: Assets/Scenes/Quizzes/Rotsen/Vallende ster/rotsen-vallende-ster-quiz2.unity
     guid: 1982eff5f7bc3437680ce995c5315b4c
   - enabled: 1
-    path: Assets/Scenes/Quizzes/rotsen/vallende-ster/rotsen-vallende-ster-quiz3.unity
+    path: Assets/Scenes/Quizzes/Rotsen/Vallende ster/rotsen-vallende-ster-quiz3.unity
     guid: f1f2ee9f32dc540fd8af2209becb2d35
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/maanfases/maan-maanfases-quiz1.unity
+    path: Assets/Scenes/Quizzes/Maan/Maanfases/maan-maanfases-quiz1.unity
     guid: 7b0004be3cf0b4fab871eecd91a47672
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/maanfases/maan-maanfases-quiz2.unity
+    path: Assets/Scenes/Quizzes/Maan/Maanfases/maan-maanfases-quiz2.unity
     guid: 8bad93fa79e89458e9d4587856a2c02c
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/maanfases/maan-maanfases-quiz3.unity
+    path: Assets/Scenes/Quizzes/Maan/Maanfases/maan-maanfases-quiz3.unity
     guid: 6a4ee3666859941648bab62420eaf361
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/maansverduistering/maan-maansverduistering-quiz1.unity
+    path: Assets/Scenes/Quizzes/Maan/Maansverduistering/maan-maansverduistering-quiz1.unity
     guid: 623e6b54cd47c4eb496c834e226a7c5f
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/maansverduistering/maan-maansverduistering-quiz2.unity
+    path: Assets/Scenes/Quizzes/Maan/Maansverduistering/maan-maansverduistering-quiz2.unity
     guid: 7cf2d9fa234264c86a181f46c183ada4
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/maansverduistering/maan-maansverduistering-quiz3.unity
+    path: Assets/Scenes/Quizzes/Maan/Maansverduistering/maan-maansverduistering-quiz3.unity
     guid: aca2b1bf4fb3147989c28d57a349ac06
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/ontstaan/maan-ontstaan-quiz1.unity
+    path: Assets/Scenes/Quizzes/Maan/Ontstaan/maan-ontstaan-quiz1.unity
     guid: b50185d728e434bd4b8a6e4ac71d2f5a
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/ontstaan/maan-ontstaan-quiz2.unity
+    path: Assets/Scenes/Quizzes/Maan/Ontstaan/maan-ontstaan-quiz2.unity
     guid: 8eda66c255d064c86823bd9471c7cbcf
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/ontstaan/maan-ontstaan-quiz3.unity
+    path: Assets/Scenes/Quizzes/Maan/Ontstaan/maan-ontstaan-quiz3.unity
     guid: e40edb768d8254f439d0e10c7ad95e0a
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/wat/maan-wat-quiz1.unity
+    path: Assets/Scenes/Quizzes/Maan/Wat/maan-wat-quiz1.unity
     guid: ca6363d5602e94c27894895031535146
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/wat/maan-wat-quiz2.unity
+    path: Assets/Scenes/Quizzes/Maan/Wat/maan-wat-quiz2.unity
     guid: 5ba30ef0753c44072801eff2ce6dac41
   - enabled: 1
-    path: Assets/Scenes/Quizzes/maan/wat/maan-wat-quiz3.unity
+    path: Assets/Scenes/Quizzes/Maan/Wat/maan-wat-quiz3.unity
     guid: a01b16c3b10b64636a67231bec2be86d
   - enabled: 1
-    path: Assets/Scenes/Quizzes/zon/wat/zon-wat-quiz1.unity
+    path: Assets/Scenes/Quizzes/Zon/Wat/zon-wat-quiz1.unity
     guid: 301cd196874bf431ea72877ad4a55f49
   - enabled: 1
-    path: Assets/Scenes/Quizzes/zon/wat/zon-wat-quiz2.unity
+    path: Assets/Scenes/Quizzes/Zon/Wat/zon-wat-quiz2.unity
     guid: e6903ae220bd949c48a433d0bf0b63d8
   - enabled: 1
-    path: Assets/Scenes/Quizzes/zon/wat/zon-wat-quiz3.unity
+    path: Assets/Scenes/Quizzes/Zon/Wat/zon-wat-quiz3.unity
     guid: 15f1306ee1ecb41058bbcfcdcfe0b279
   - enabled: 1
-    path: Assets/Scenes/Quizzes/zon/zonsverduistering/zon-zonsverduistering-quiz1.unity
+    path: Assets/Scenes/Quizzes/Zon/Zonsverduistering/zon-zonsverduistering-quiz1.unity
     guid: 2b9fc83cf154c4ca080eb3e8fa24f6f4
   - enabled: 1
-    path: Assets/Scenes/Quizzes/zon/zonsverduistering/zon-zonsverduistering-quiz2.unity
+    path: Assets/Scenes/Quizzes/Zon/Zonsverduistering/zon-zonsverduistering-quiz2.unity
     guid: 82c39b98d194e47fd84020f3aecb0762
   - enabled: 1
-    path: Assets/Scenes/Quizzes/zon/zonsverduistering/zon-zonsverduistering-quiz3.unity
+    path: Assets/Scenes/Quizzes/Zon/Zonsverduistering/zon-zonsverduistering-quiz3.unity
     guid: 1606e5f7fb2c1434d9b3821b7f99e4d6
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/andromedastelsel/sterren-andromedastelsel-quiz1.unity
+    path: Assets/Scenes/Quizzes/Sterren/Andromedastelsel/sterren-andromedastelsel-quiz1.unity
     guid: bb7247cbb06d14dcba755191a679111e
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/andromedastelsel/sterren-andromedastelsel-quiz2.unity
+    path: Assets/Scenes/Quizzes/Sterren/Andromedastelsel/sterren-andromedastelsel-quiz2.unity
     guid: 09b0e7bc39aeb4e0ca5f9658c934aa6b
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/andromedastelsel/sterren-andromedastelsel-quiz3.unity
+    path: Assets/Scenes/Quizzes/Sterren/Andromedastelsel/sterren-andromedastelsel-quiz3.unity
     guid: 625b63067be3c4a9684ec5a7940bd3fa
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/leven/sterren-leven-quiz1.unity
+    path: Assets/Scenes/Quizzes/Sterren/Leven/sterren-leven-quiz1.unity
     guid: 5c3513dbae6e0434ca74c7579275946a
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/leven/sterren-leven-quiz2.unity
+    path: Assets/Scenes/Quizzes/Sterren/Leven/sterren-leven-quiz2.unity
     guid: 432fdba36aa1647cb8d1d42674cbe612
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/leven/sterren-leven-quiz3.unity
+    path: Assets/Scenes/Quizzes/Sterren/Leven/sterren-leven-quiz3.unity
     guid: e6fa1f7b2d92245788b40c56d20782b0
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/proxima/sterren-proxima-quiz1.unity
+    path: Assets/Scenes/Quizzes/Sterren/Proxima/sterren-proxima-quiz1.unity
     guid: 12fe4cebe5ac94164867dc08db1a2152
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/proxima/sterren-proxima-quiz2.unity
+    path: Assets/Scenes/Quizzes/Sterren/Proxima/sterren-proxima-quiz2.unity
     guid: c9593949ffdcd481d91ea99f1b95489d
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/proxima/sterren-proxima-quiz3.unity
+    path: Assets/Scenes/Quizzes/Sterren/Proxima/sterren-proxima-quiz3.unity
     guid: 95d68d6273728474fa04936c67fa2b7b
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/sterrenbeelden/sterren-sterrenbeelden-quiz1.unity
+    path: Assets/Scenes/Quizzes/Sterren/Sterrenbeelden/sterren-sterrenbeelden-quiz1.unity
     guid: 44d7b1f683e3a44f3a123efe88fa21f5
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/sterrenbeelden/sterren-sterrenbeelden-quiz2.unity
+    path: Assets/Scenes/Quizzes/Sterren/Sterrenbeelden/sterren-sterrenbeelden-quiz2.unity
     guid: cd0415a1ebb04463393228f211b3609f
   - enabled: 1
-    path: Assets/Scenes/Quizzes/sterren/sterrenbeelden/sterren-sterrenbeelden-quiz3.unity
+    path: Assets/Scenes/Quizzes/Sterren/Sterrenbeelden/sterren-sterrenbeelden-quiz3.unity
     guid: 3fd7a2b7796d14870b5bafa13124ec13
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/mercurius/planeten-mercurius-quiz1.unity
+    path: Assets/Scenes/Quizzes/Planeten/Mercurius/planeten-mercurius-quiz1.unity
     guid: 07a6203750bf146538e82c7527c88a95
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/mercurius/planeten-mercurius-quiz2.unity
+    path: Assets/Scenes/Quizzes/Planeten/Mercurius/planeten-mercurius-quiz2.unity
     guid: 69adc40d49801420fa3e0c456203e0b4
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/mercurius/planeten-mercurius-quiz3.unity
+    path: Assets/Scenes/Quizzes/Planeten/Mercurius/planeten-mercurius-quiz3.unity
     guid: f08d12acaa1244082bbac52d63fb0edd
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/venus/planeten-venus-quiz1.unity
+    path: Assets/Scenes/Quizzes/Planeten/Venus/planeten-venus-quiz1.unity
     guid: 4730cea2e53ee4df387ce0178805bc34
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/venus/planeten-venus-quiz2.unity
+    path: Assets/Scenes/Quizzes/Planeten/Venus/planeten-venus-quiz2.unity
     guid: e45e041d2554a4e31a9b02a59cc8f98a
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/venus/planeten-venus-quiz3.unity
+    path: Assets/Scenes/Quizzes/Planeten/Venus/planeten-venus-quiz3.unity
     guid: 916838fd8fef44ad2864c53d8ab8e0f2
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/aarde/planeten-aarde-quiz1.unity
+    path: Assets/Scenes/Quizzes/Planeten/Aarde/planeten-aarde-quiz1.unity
     guid: 736b870bff0364ee091ac393f7d394fe
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/aarde/planeten-aarde-quiz2.unity
+    path: Assets/Scenes/Quizzes/Planeten/Aarde/planeten-aarde-quiz2.unity
     guid: c37ab083f3022469593783224a5ebc26
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/aarde/planeten-aarde-quiz3.unity
+    path: Assets/Scenes/Quizzes/Planeten/Aarde/planeten-aarde-quiz3.unity
     guid: e16fb8a179dc54bedb687cad6752b9f4
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/mars/planeten-mars-quiz1.unity
+    path: Assets/Scenes/Quizzes/Planeten/Mars/planeten-mars-quiz1.unity
     guid: 0ec52c5d632d24b1f936692f7ff38557
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/mars/planeten-mars-quiz2.unity
+    path: Assets/Scenes/Quizzes/Planeten/Mars/planeten-mars-quiz2.unity
     guid: 10e43b086d9044a31bbeffc2053f7996
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/mars/planeten-mars-quiz3.unity
+    path: Assets/Scenes/Quizzes/Planeten/Mars/planeten-mars-quiz3.unity
     guid: 440dabbac57af421d8a680e5d845608f
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/jupiter/planeten-jupiter-quiz1.unity
+    path: Assets/Scenes/Quizzes/Planeten/Jupiter/planeten-jupiter-quiz1.unity
     guid: 99723fd040a2a435f91e282c4d975a68
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/jupiter/planeten-jupiter-quiz2.unity
+    path: Assets/Scenes/Quizzes/Planeten/Jupiter/planeten-jupiter-quiz2.unity
     guid: 86a4e4b0da2274786b634173547ee3a2
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/jupiter/planeten-jupiter-quiz3.unity
+    path: Assets/Scenes/Quizzes/Planeten/Jupiter/planeten-jupiter-quiz3.unity
     guid: 7890c6d235ae744f981e056d025fa5ee
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/saturnus/planeten-saturnus-quiz1.unity
+    path: Assets/Scenes/Quizzes/Planeten/Saturnus/planeten-saturnus-quiz1.unity
     guid: 00823d54e13ef4bf99428064190611e9
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/saturnus/planeten-saturnus-quiz2.unity
+    path: Assets/Scenes/Quizzes/Planeten/Saturnus/planeten-saturnus-quiz2.unity
     guid: 6b39b97736093407e83871a90b9be017
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/saturnus/planeten-saturnus-quiz3.unity
+    path: Assets/Scenes/Quizzes/Planeten/Saturnus/planeten-saturnus-quiz3.unity
     guid: 7d120ff04b3d044acabc913d947c6f59
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/uranus/planeten-uranus-quiz1.unity
+    path: Assets/Scenes/Quizzes/Planeten/Uranus/planeten-uranus-quiz1.unity
     guid: caff0fe69b83844ff963560a4ec7be33
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/uranus/planeten-uranus-quiz2.unity
+    path: Assets/Scenes/Quizzes/Planeten/Uranus/planeten-uranus-quiz2.unity
     guid: 58efbc9ef7a5b42ea9602e9448310639
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/uranus/planeten-uranus-quiz3.unity
+    path: Assets/Scenes/Quizzes/Planeten/Uranus/planeten-uranus-quiz3.unity
     guid: 80ca13611086e4432bcaa330594dba7b
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/neptunus/planeten-neptunus-quiz1.unity
+    path: Assets/Scenes/Quizzes/Planeten/Neptunus/planeten-neptunus-quiz1.unity
     guid: 7bb29f055d5994487b2fa22f1dc63e4b
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/neptunus/planeten-neptunus-quiz2.unity
+    path: Assets/Scenes/Quizzes/Planeten/Neptunus/planeten-neptunus-quiz2.unity
     guid: 188a381dbc80047148b5750a1b853cbb
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/neptunus/planeten-neptunus-quiz3.unity
+    path: Assets/Scenes/Quizzes/Planeten/Neptunus/planeten-neptunus-quiz3.unity
     guid: 822fae622cba04511a00896bbe4f934d
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/pluto/planeten-pluto-quiz1.unity
+    path: Assets/Scenes/Quizzes/Planeten/Pluto/planeten-pluto-quiz1.unity
     guid: 13ff2edbc5c9c4076b16fe4ffcba9f39
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/pluto/planeten-pluto-quiz2.unity
+    path: Assets/Scenes/Quizzes/Planeten/Pluto/planeten-pluto-quiz2.unity
     guid: 0cd36359dfdd849c4b03d32b85ceb71c
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/pluto/planeten-pluto-quiz3.unity
+    path: Assets/Scenes/Quizzes/Planeten/Pluto/planeten-pluto-quiz3.unity
     guid: a15d53c0b85454758aadc16640fd54ab
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/soorten/planeten-soorten-quiz1.unity
+    path: Assets/Scenes/Quizzes/Planeten/Soorten/planeten-soorten-quiz1.unity
     guid: 4119f16a72f4b4ceda6a8902aef9acdc
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/soorten/planeten-soorten-quiz2.unity
+    path: Assets/Scenes/Quizzes/Planeten/Soorten/planeten-soorten-quiz2.unity
     guid: 6d485909fa5034b3c9863a3e1a29ac40
   - enabled: 1
-    path: Assets/Scenes/Quizzes/planeten/soorten/planeten-soorten-quiz3.unity
+    path: Assets/Scenes/Quizzes/Planeten/Soorten/planeten-soorten-quiz3.unity
     guid: 90b06901f0b174c8fa3b81d6a86decba
   m_configObjects: {}

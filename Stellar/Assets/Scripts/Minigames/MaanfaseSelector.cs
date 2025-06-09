@@ -81,7 +81,8 @@ public class MoonPhaseGame : MonoBehaviour
         }
         else
         {
-            resultText.text = "Probeer opnieuw!";
+            resultText.text = "Fout! De juiste fase was:";
+            displayedMoonImage.sprite = moonPhaseImages[targetPhase];
         }
 
         currentQuestion++;

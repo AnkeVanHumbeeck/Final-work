@@ -15,8 +15,6 @@ public class QuizManagerOntstaan1 : MonoBehaviour
 
     [SerializeField] CanvasGroup nextButtonCanvasGroup;
     [SerializeField] CanvasGroup previousButtonCanvasGroup;
-
-    [Header("Quiz-elementen")]
     [SerializeField] Image vraagAfbeelding;
     [SerializeField] Button[] antwoordKnoppen;
     [SerializeField] TMP_Text[] antwoordTeksten;
@@ -36,14 +34,12 @@ public class QuizManagerOntstaan1 : MonoBehaviour
     {
         SetVraagIndex();
         StartCoroutine(EventStarter());
-
         StartCoroutine(EventStarter());
     }
 
     void SetVraagIndex()
     {
         string sceneName = SceneManager.GetActiveScene().name;
-
 
         if (sceneName.Contains("quiz"))
         {
@@ -55,10 +51,8 @@ public class QuizManagerOntstaan1 : MonoBehaviour
         }
     }
 
-
     IEnumerator EventStarter()
     {
-
         mainTextObject.SetActive(true);
 
         nextButtonCanvasGroup.alpha = 0.5f;
@@ -90,7 +84,6 @@ public class QuizManagerOntstaan1 : MonoBehaviour
         yield return new WaitForSeconds(0.5f);
         fadeScreenIn.SetActive(false);
 
-
         if (QuizStateManager.Instance.heeftGeantwoord[vraagIndex])
         {
             Beantwoord(QuizStateManager.Instance.gekozenAntwoorden[vraagIndex]);
@@ -108,16 +101,13 @@ public class QuizManagerOntstaan1 : MonoBehaviour
         if (gekozenIndex == correctIndex)
         {
             QuizStateManager.Instance.aantalJuisteAntwoorden++;
-            Debug.Log("Aantal juiste antwoorden: " + QuizStateManager.Instance.aantalJuisteAntwoorden);
 
             if (QuizStateManager.Instance.aantalJuisteAntwoorden == 3)
             {
                 PlayerPrefs.SetInt("OntstaanMaan_Completed", 1);
                 PlayerPrefs.Save();
-                Debug.Log("Alle drie de vragen goed — voltooid!");
             }
         }
-
 
         Color groen, rood;
         ColorUtility.TryParseHtmlString("#507E2E", out groen);

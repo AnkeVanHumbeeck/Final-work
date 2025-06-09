@@ -57,7 +57,7 @@ public class sterrenLevenScene12 : MonoBehaviour
         previousButtonCanvasGroup.blocksRaycasts = false;
 
         mainTextObject.SetActive(true);
-        textToSpeak = "Als de kern blijft krimpen, ontstaat er een zwart gat. De zwaartekracht is dan zo sterk dat niks kan ontsnappen, zelfs het licht niet! Rond het zwarte gat lijken twee ringen van licht te zweven, omdat het zwarte gat het licht buigt.";
+        textToSpeak = "Als de kern blijft krimpen, ontstaat er een zwart gat. De zwaartekracht is dan zo sterk dat niks kan ontsnappen, zelfs het licht niet! Rond het zwarte gat lijken twee ringen van licht te zweven, omdat het zwarte gat het licht afbuigt.";
         textBox.GetComponent<TMPro.TMP_Text>().text = textToSpeak;
         currentTextLength = textToSpeak.Length;
         TextCreator.runTextPrint = true;

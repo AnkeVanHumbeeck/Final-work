@@ -871,7 +871,7 @@ MonoBehaviour:
   MusicAlgemeen: {fileID: 1429079859}
   myMixer: {fileID: 24100000, guid: ae651e137c13ca842b11b71c4df18e1c, type: 2}
   allowedScenes:
-  - maan-maansverduistering-scene1maan-maansverduistering-scene1
+  - maan-maansverduistering-scene1
   - maan-maansverduistering-scene2
 --- !u!4 &1193620842
 Transform:

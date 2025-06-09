@@ -2007,6 +2007,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe6dcc749c941254692c027d7a48f644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fallbackScene: Main menu
 --- !u!1 &797843596
 GameObject:
   m_ObjectHideFlags: 0
@@ -2553,7 +2554,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Reset
+  m_text: Reset game
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7717fbfb776d24b629f4d7dcbd716805, type: 2}
   m_sharedMaterial: {fileID: 1960022643558471527, guid: 7717fbfb776d24b629f4d7dcbd716805, type: 2}
@@ -2746,7 +2747,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9a4248da0eece542a26a7e93a36e99e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: 
+  sceneName: 
 --- !u!1 &1660536169
 GameObject:
   m_ObjectHideFlags: 0
