@@ -1880,7 +1880,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -425.00012, y: 376.49988}
+  m_AnchoredPosition: {x: 0.00082397, y: -0.00085449}
   m_SizeDelta: {x: 257.34, y: 257.34}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &563549790
@@ -1927,7 +1927,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1107194652}
+      - m_Target: {fileID: 1909478381}
         m_TargetAssemblyTypeName: Navigation, Assembly-CSharp
         m_MethodName: LoadScene
         m_Mode: 1

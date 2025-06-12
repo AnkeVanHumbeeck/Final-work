@@ -1425,7 +1425,7 @@ MonoBehaviour:
   MusicAlgemeen: {fileID: 1965535208}
   myMixer: {fileID: 24100000, guid: ae651e137c13ca842b11b71c4df18e1c, type: 2}
   allowedScenes:
-  - "rotsen-asteroi\u0308den-scene1"
+  - "rotsen-astero\xEFden-scene1"
   - "rotsen-asteroi\u0308den-scene2"
 --- !u!4 &1550082210
 Transform:
